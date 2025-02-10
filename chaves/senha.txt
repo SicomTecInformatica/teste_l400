@@ -1,0 +1,16 @@
+SDK
+https://www.adrive.com/public/RQfMMr/20190725_SDK_GPOS700_147.zip
+
+Chave Customer
+Senha: Development@Sicomtec2018
+Alias: developmentSicomtec_customerapp
+Senha Alias: Development@Sicomtec2018
+
+Chave Enhanced
+Senha: Development@Sicomtec2018
+Alias: developmentsicomtecdeveloper_enhancedapp
+Senha Alias: Development@Sicomtec2018
+
+<Reference Include="TSG800">
+      <HintPath>C:\Users\Mama\Documents\gertecdev\gertecXamarin\ExemploImpressao\TSG800.dll</HintPath>
+    </Reference>
